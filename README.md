@@ -2,9 +2,9 @@
 						Facultad de ingeniería**
 
 
-**Nathaly Hernández Tello 
-James Ramírez Arenas 
-Camilo Andrés Lozano Giraldo 
+**Nathaly Hernández Tello, 
+James Ramírez Arenas, 
+Camilo Andrés Lozano Giraldo, 
 Daniel Ernesto De La Cruz López**
 
 # Proyecto Gestión y Almacenamiento de Datos
