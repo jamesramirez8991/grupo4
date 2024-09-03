@@ -1,8 +1,8 @@
-**Universidad Autónoma de Occidente 
+**Universidad Autónoma de Occidente- 
 						Facultad de ingeniería**
 
 
-**Nathaly Hernández Tello, 
+**Grupo4: Nathaly Hernández Tello, 
 James Ramírez Arenas, 
 Camilo Andrés Lozano Giraldo, 
 Daniel Ernesto De La Cruz López**
